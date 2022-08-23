@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "o8PN6eCtDUqo/n1geJj8qvRdMunOMrSDJPiB7FSmeFZ7/W01j/Q1/Wx84R6W1PHlYGuVp6/dd+khyoLjdYiuZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxim\\source\\repos\\Asteroids-SFML\\Engine\\Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxim\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
